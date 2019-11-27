@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Format Rupiah</string>
+    <string name="title_harga">Harga</string>
+    <string name="title_submit">Submit</string>
+</resources>
